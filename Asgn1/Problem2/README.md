@@ -10,7 +10,7 @@
 **Sample DataSet:**
 	
 	HumptyDumptysatonawallHumptyDumptyhadagreatfallAlltheKingshorsesandalltheKingsmenCouldntputHumptyDumptyinhisplaceagain.
-  22 27 97 102
+	22 27 97 102
   
 **Sample Output:**
 	
