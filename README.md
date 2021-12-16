@@ -31,11 +31,11 @@
 	problem13.py: Find a Eularian Path in a Graph
 	problem14.py: Reconstruct a String from its k-mer Composition 
 
-**Assignment 5: DAGS **
+Assignment 5: DAGS
 	
 	DAG.py: Find the longest path in a DAG
 
-**Assignment 6: Peptide Synthesis and Branch and Bound **
+Assignment 6: Peptide Synthesis and Branch and Bound
 	
 	problem16.py: Find Substrings of a Genome Encoding a Given Amino Acid String 
 	problem17.py: Generate the Theoretical Spectrum of a Cyclic Peptide 
