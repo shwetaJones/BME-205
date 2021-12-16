@@ -2,13 +2,13 @@
 Bioinformatics Models and Algorithms
 Taught by David Bernick 
 Assignment 1: Rosalind and Python Set-Up, simple coding
-  problem1.py: Installing Python
-  problem2.py: Counting DNA Nucleotides
-  problem3.py: Variables and Some Arithmetic
-  problem4.py: Strings and Lists
-  problem5.py: Condiitons and Loops
-  problem6.py: Working with Files
-  problem7.py: Dictionaries
+    problem1.py: Installing Python
+    problem2.py: Counting DNA Nucleotides
+    problem3.py: Variables and Some Arithmetic
+    problem4.py: Strings and Lists
+    problem5.py: Condiitons and Loops
+    problem6.py: Working with Files
+    problem7.py: Dictionaries
   
 Assignment 2: CRISPR Promoter Sequence
   randomizedMotifSearch.py: Finds the associated consensus motif 
