@@ -1,12 +1,13 @@
 **Variables and Some Arithmetic**
 
-Problem:
+**Problem:**
 	
 	Given: Two positive integers a and b, each less than 1000.
 	
 	Return: The integer corresponding to the square of the hypotenuse of the right triangle whose legs have lengths a and b.
 	
-Notes:
+**Notes:**
+	
 	1. The dataset changes every time you click "Download dataset".
 	
 	2. We check only your final answer to the downloaded dataset in the box below, not your code itself. 
@@ -14,8 +15,10 @@ Notes:
 	   answer to this problem will not in general be 34; it is simply an example of what you should return 
 	   in the specific case that the legs of the triangle have length 3 and 5.
 
-Sample DataSet:
+**Sample DataSet:**
 	
-	Input: 3 5
+	3 5
+
+**Sample Output:**
 	
-	Output: 34
+	34
