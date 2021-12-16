@@ -1,6 +1,8 @@
 # BME-205
 Bioinformatics Models and Algorithms
+
 Taught by David Bernick 
+
 Assignment 1: Rosalind and Python Set-Up, simple coding
 
 	problem1.py: Installing Python
