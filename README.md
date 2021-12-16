@@ -2,7 +2,7 @@
 Bioinformatics Models and Algorithms
 Taught by David Bernick 
 Assignment 1: Rosalind and Python Set-Up, simple coding
-    problem1.py: Installing Python
+    "problem1.py": Installing Python
     problem2.py: Counting DNA Nucleotides
     problem3.py: Variables and Some Arithmetic
     problem4.py: Strings and Lists
