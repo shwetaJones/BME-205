@@ -9,12 +9,12 @@
 **Sample DataSet:**
 	
 	4
-CTTA
-ACCA
-TACC
-GGCT
-GCTT
-TTAC
+	CTTA
+	ACCA
+	TACC
+	GGCT
+	GCTT
+	TTAC
 
 **Sample Output:**
 	
