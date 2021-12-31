@@ -9,12 +9,12 @@
 **Sample DataSet:**
 	
 	AABBBAABABAAAABBBBAABBABABBBAABBAAAABABAABBABABBAB
---------
-A   B
---------
-    A   B
-A   0.194   0.806
-B   0.273   0.727
+	--------
+	A   B
+	--------
+		A   B
+	A   0.194   0.806
+	B   0.273   0.727
 
 **Sample Output:**
 	
