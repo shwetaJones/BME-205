@@ -9,16 +9,16 @@
 **Sample DataSet:**
 	
 	xxyzyxzzxzxyxyyzxxzzxxyyxxyxyzzxxyzyzxzxxyxyyzxxzx
---------
-x   y   z
---------
-BBBAAABABABBBBBBAAAAAABAAAABABABBBBBABAABABABABBBB
---------
-A   B
---------
-    x   y   z
-A   0.612   0.314   0.074 
-B   0.346   0.317   0.336
+	--------
+	x   y   z
+	--------
+	BBBAAABABABBBBBBAAAAAABAAAABABABBBBBABAABABABABBBB
+	--------
+	A   B
+	--------
+		x   y   z
+	A   0.612   0.314   0.074 
+	B   0.346   0.317   0.336
 
 **Sample Output:**
 	
