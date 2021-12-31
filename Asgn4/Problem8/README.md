@@ -23,8 +23,8 @@
 **Sample Output:**
 	
 	AATCC
-  ATCCA
-  CAATC
-  CCAAC
-  TCCAA
+	ATCCA
+	CAATC
+	CCAAC
+	TCCAA
 
