@@ -9,15 +9,15 @@
 **Sample DataSet:**
 	
 	4
-AAGATTCTCTAC
+	AAGATTCTCTAC
 
 **Sample Output:**
 	
 	AAG -> AGA
-AGA -> GAT
-ATT -> TTC
-CTA -> TAC
-CTC -> TCT
-GAT -> ATT
-TCT -> CTA,CTC
-TTC -> TCT
+	AGA -> GAT
+	ATT -> TTC
+	CTA -> TAC
+	CTC -> TCT
+	GAT -> ATT
+	TCT -> CTA,CTC
+	TTC -> TCT
