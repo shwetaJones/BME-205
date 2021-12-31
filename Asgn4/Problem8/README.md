@@ -18,7 +18,7 @@
 **Sample DataSet:**
 	
 	5
-  CAATCCAAC
+	CAATCCAAC
 
 **Sample Output:**
 	
