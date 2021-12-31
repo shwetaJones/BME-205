@@ -9,17 +9,17 @@
 **Sample DataSet:**
 	
 	GAGG
-CAGG
-GGGG
-GGGA
-CAGG
-AGGG
-GGAG
+	CAGG
+	GGGG
+	GGGA
+	CAGG
+	AGGG
+	GGAG
 
 **Sample Output:**
 	
 	AGG -> GGG
-CAG -> AGG,AGG
-GAG -> AGG
-GGA -> GAG
-GGG -> GGA,GGG
+	CAG -> AGG,AGG
+	GAG -> AGG
+	GGA -> GAG
+	GGG -> GGA,GGG
