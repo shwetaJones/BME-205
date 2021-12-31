@@ -9,15 +9,14 @@
 **Sample DataSet:**
 	
 	ATGCG
-GCATG
-CATGC
-AGGCA
-GGCAT
+	GCATG
+	CATGC
+	AGGCA
+	GGCAT
 
 **Sample Output:**
 	
 	AGGCA -> GGCAT
-CATGC -> ATGCG
-GCATG -> CATGC
-GGCAT -> GCATG
-
+	CATGC -> ATGCG
+	GCATG -> CATGC
+	GGCAT -> GCATG
