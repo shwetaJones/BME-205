@@ -1,5 +1,6 @@
 # BME-205
-**Bioinformatics Models and Algorithms**
+
+## Bioinformatics Models and Algorithms**
 
 ### Professor: David Bernick 
 
