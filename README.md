@@ -2,7 +2,7 @@
 
 ## Bioinformatics Models and Algorithms**
 
-### University: UCSC
+### University: University of California, Santa Cruz
 ### Professor: David Bernick 
 
 **Assignment 1: Rosalind and Python Set-Up, simple coding**
